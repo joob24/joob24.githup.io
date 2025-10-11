@@ -1,0 +1,9 @@
+# Exclude database files
+*.sql
+*.db
+# Exclude local config
+config.local.php
+.env.local
+# Exclude node_modules atau vendor jika ada
+node_modules/
+vendor/
